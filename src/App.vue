@@ -4,7 +4,7 @@ import { computed, onMounted, onUnmounted, ref } from 'vue'
 const navItems = [
   { label: 'Home', id: 'home' },
   { label: 'About', id: 'about' },
-  { label: 'Portfolio', id: 'portfolio' },
+  { label: 'Portofolio', id: 'portofolio' },
   { label: 'Contact', id: 'contacts' },
 ]
 
@@ -452,10 +452,10 @@ function sendMessage(event) {
         </div>
       </section>
 
-      <section id="portfolio" class="section-block scroll-mt-24 py-20 md:py-24">
+      <section id="portofolio" class="section-block scroll-mt-24 py-20 md:py-24">
         <div class="mx-auto max-w-6xl px-6">
           <div class="section-heading">
-            <span class="section-kicker">02 / PORTFOLIO</span>
+            <span class="section-kicker">02 / PORTOFOLIO</span>
             <h2>Selected <span>Work</span></h2>
           </div>
 
