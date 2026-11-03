@@ -79,6 +79,7 @@ const projects = [
     link: 'https://github.com/marsaardita/PCOS-Detection-CNN',
     images: [
       { src: '/projects/pcos-detection-cnn/prediction.png', label: 'Hasil Prediksi', alt: 'Hasil klasifikasi citra ultrasonografi pada proyek PCOS Detection CNN' },
+      { src: '/projects/pcos-detection-cnn/notebook-result.png', label: 'Notebook & Hasil Prediksi', alt: 'Notebook Python yang menampilkan proses upload dan hasil prediksi PCOS' },
     ],
   },
   {
