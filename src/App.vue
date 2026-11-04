@@ -8,7 +8,7 @@ const navItems = [
   { label: 'Contact', id: 'contacts' },
 ]
 
-const roles = ['Web Developer', 'Database Administrator', 'IT Support']
+const roles = ['Informatics Fresh Graduate', 'Tech Enthusiast']
 const roleIndex = ref(0)
 const menuOpen = ref(false)
 const activeCategory = ref('All')
@@ -399,7 +399,7 @@ function sendMessage(event) {
           <div class="grid items-center gap-10 md:grid-cols-[1.15fr_0.85fr] md:gap-16">
             <div>
               <p class="text-base leading-8 text-slate-300 md:text-lg">
-                Halo! Saya Marsa Ardita, lulusan S1 Informatika Universitas Gunadarma dengan IPK 3,81. Saya berpengalaman sebagai Asisten Praktikum High Performance Computing (HPC), mendampingi praktikan mempelajari data science, serta memiliki pengalaman akademik dalam pengembangan aplikasi web dan machine learning. Saya juga terbiasa mengelola basis data, melakukan troubleshooting perangkat lunak maupun perangkat keras, dan memberikan dukungan teknis kepada pengguna.
+                Halo! Saya Marsa Ardita, fresh graduate S1 Informatika Universitas Gunadarma dengan IPK 3,81. Saya memiliki pengalaman akademik dalam pengembangan aplikasi web dan IT infrastructure, termasuk merancang serta membangun sistem, mengelola basis data, melakukan troubleshooting perangkat lunak maupun perangkat keras, dan memberikan dukungan teknis kepada pengguna.
               </p>
 
               <blockquote class="about-quote mt-7 rounded-r-xl px-5 py-4 text-base font-medium italic leading-7 text-emerald-100 md:text-lg">
